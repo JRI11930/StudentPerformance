@@ -57,7 +57,7 @@ Armando
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/armando-islas)
 
 Daniela
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/dfloresq)
 
 ---
 
