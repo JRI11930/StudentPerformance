@@ -49,6 +49,10 @@ Los modelos implementados han logrado errores absolutos menores a **0.5** en pro
 
 ![Gráfica de Errores](results.png)
 
+Además, se obtuvo el siguiente orden de impmortancia de las variables:
+
+![Gráfica de Importancias](importances.png)
+
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de LinkedIn:
@@ -61,4 +65,4 @@ Daniela
 
 ---
 
-¡Gracias por visitar este proyecto! Espero que te sea útil e interesante. 
+¡Gracias por visitar este proyecto! Esperamos que sea útil e interesante. 
